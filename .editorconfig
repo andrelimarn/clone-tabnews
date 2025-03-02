@@ -1,8 +1,9 @@
-
+#determinar que as regras são aplicadas desde a ráiz em todo o projeto 
 root = true
 
+#todos as extensões de arquivos
 [*]
 indent_style = space
-indent_size = 2
-
+indent_size = 2 
+  
 
